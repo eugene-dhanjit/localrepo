@@ -1,0 +1,132 @@
+/* index.html */
+* {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+/* resume.html */
+main {
+    background-color: rgba(23, 31, 35, 0.51);
+    margin: 25px;
+    border-radius: 20PX;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+  
+}
+
+.navbar ul {
+    list-style-type: none;
+    background-color: rgb(2, 24, 40);
+    overflow: hidden;
+
+}
+
+.navbar a {
+    text-decoration: none;
+    padding: 5px;
+    display: block;
+    margin-top: 10px;
+   
+
+}
+
+.navbar a:hover {
+    background-color: rgb(114, 66, 66);
+
+}
+
+.navbar li a {
+    float: left;
+    display: flex;
+
+}
+
+
+#logo {
+    margin-left: 5px;
+    border-radius: 40%;
+    float: right;
+
+    
+}
+
+#logo:hover{
+    background-color: rgb(2, 24, 40);
+}
+body {
+    background-color: rgb(28, 125, 137);
+}
+
+img {
+    height: 35px;
+    border-radius: 50%;
+    margin-right: 12px;
+}
+
+h1 {
+    text-align: center;
+
+    background-color: rgba(34, 29, 29, 0.457);
+    border-style: solid;
+    border-radius: 15PX;
+    border-color: rgb(0, 0, 0);
+}
+
+h6 {
+    padding: 0px;
+    margin-left: 0px;
+    text-align: center;
+    background-color: rgb(108, 28, 28);
+    border-radius: 5px;
+    color: rgb(8, 1, 24);
+
+}
+
+h4 {
+    margin-left: 25px;
+}
+
+p {
+    margin-left: 60px;
+    padding-bottom: 25px;
+}
+
+.COLLAGE {
+    border-style: solid;
+
+    padding-left: 24px;
+    background-color: rgb(1, 8, 16);
+    margin-right: 50px;
+}
+
+li {
+    margin-left: 60px;
+}
+/* home.html */
+
+#main p {
+    background-color: rgba(1, 26, 32, 0.578);
+    margin:20px;
+    padding: 30px;
+    margin-top: 25pxpx;
+    border-radius: 10px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+
+}
+h2 a{
+    text-align: center;
+    color: rgb(91, 19, 19);
+    text-decoration:none;
+    margin: 50px;
+
+    
+    
+    
+}
+h2 a:hover{
+    background-color: white;
+}
